@@ -8,13 +8,13 @@ using namespace std;
 class BinarySearchTree
 {
 private:
-	struct tree_node
+	struct tree
 	{
-		tree_node* left;
-		tree_node* right;
+		tree* left;
+		tree* right;
 		Player playerDetails;
 	};
-	tree_node* root; 
+	tree* root;
 
 public:
 	BinarySearchTree()
@@ -26,6 +26,6 @@ public:
 	void insert(Player);
 	void search(string key);
 	void print_preorder();
-	void preorder(tree_node*);
-	//void fillTree(BinarySearchTree *tree);
+	void preorder(tree*);
+	void fillTree(BinarySearchTree *tree);
 };
