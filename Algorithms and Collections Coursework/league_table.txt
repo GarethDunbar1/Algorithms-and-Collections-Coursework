@@ -1,0 +1,12 @@
+6	Hibs		30	12	9	9	45	32	12	45
+4	Kilmarnock	30	14	9	7	39	28	11	51
+9	St Johnstone	29	11	5	13	29	39	-10	38
+2	Rangers		30	17	9	4	66	22	44	60
+8	Livingston	30	10	8	12	32	31	1	38
+11	Dundee		30	4	6	20	24	62	-38	18
+1	Aberdeen	30	15	7	8	46	34	12	52
+7	Motherwell	30	12	4	14	33	41	-8	40
+10	Hamilton	30	7	3	20	20	61	-41	24
+5	Hearts		30	14	5	11	35	35	0	47
+12	St Mirren	29	4	5	20	21	56	-35	17
+1	Celtic		30	22	4	4	67	16	51	70

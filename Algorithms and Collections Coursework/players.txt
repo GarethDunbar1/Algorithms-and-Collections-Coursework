@@ -15,7 +15,7 @@ Eamonn_Brohpy	Kille	17	9	2
 Jake_Hastie	M'Well	8	5	1
 Steven_Naismith	Hearts	19	10	3
 Mikial_Miller	H'ton	21	5	1
-Alfredo_Morelos	Rangers	22	16	4
+Alfredo_Morelos	Rangers	23	17	4
 James_Forrest	Celtic	24	10	7
 Sam_Cosgrove	A'deen	19	14	2
 James_Tavernier	Rangers	28	11	11

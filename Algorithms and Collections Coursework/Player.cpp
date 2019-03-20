@@ -1,3 +1,5 @@
+//Structures and Algorithms Coursework 18/19 - SPFL Top Scorers by B00324366
+//This class implements the different getters and setters that will be used to store and display the different pieces of data that is being used throughout the program. 
 #include <iostream>
 #include <fstream>
 #include "Player.h"
